@@ -44,7 +44,7 @@ We would like to thank Professor Alonzi and our TA Harsh for their help and guid
 
 ### References
 
-[1] “Religion's Relationship to Happiness, Civic Engagement, and Health around the World.” Pew Research Center's Religion & Public Life Project, Pew Research Center, 27 July 2020, https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/#:~:text=People%20who%20are%20active%20in,than%20two%20dozen%20other%20countries. [Accessed: 8-Oct-2022]
+[1] “Religion's Relationship to Happiness, Civic Engagement, and Health around the World.” Pew Research Center's Religion & Public Life Project, Pew Research Center, 27 July 2020, https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/#:~:text=People%20who%20are%20active%20in,than%20two%20dozen%20other%20countries. [Accessed: 8-Oct-2022] 
 
 [2] Ngamaba, Kayonda Hubert, and Debbie Soni. “Are Happiness and Life Satisfaction Different across Religious Groups? Exploring Determinants of Happiness and Life Satisfaction.” Journal of Religion and Health, Springer US, Dec. 2018, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6182728/. [Accessed: 8-Oct-2022]
 
@@ -54,8 +54,6 @@ We would like to thank Professor Alonzi and our TA Harsh for their help and guid
 
 [5] “The Future of World Religions: Population Growth Projections, 2010-2050.” Pew Research Center's Religion & Public Life Project, Pew Research Center, 28 Apr. 2022, https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/. [Accessed: 8-Oct-2022]
 
-[6] “What is generalized anxiety disorder?” Johns Hopkins Medicine. [Online]. Available: https://www.ho
-pkinsmedicine.org/health/conditions-and-diseases/generalized-anxiety-disorder#:~:text=GAD%20means%20that%20you%20are,money%2C%20family%2C%20or%20work. [Accessed: 12-Oct-2022]
+[6] “What is generalized anxiety disorder?” Johns Hopkins Medicine. [Online]. Available: https://www.hopkinsmedicine.org/health/conditions-and-diseases/generalized-anxiety-disorder#:~:text=GAD%20means%20that%20you%20are,money%2C%20family%2C%20or%20work. [Accessed: 12-Oct-2022]
 
-[7] N.Bains, S. Abdijadid. “Major Depressive Disorder”National Library of Medicine, 01-Jun-2022. [Online]. Available:https://www.ncbi.nlm.nih.gov/books/NBK559078/#:~:text=It%20is%20diagnosed%
-20when%20an,sleep%20disturbances%2C%20or%20suicidal%20thoughts. [Accessed: 12-Oct-2022]
+[7] N.Bains, S. Abdijadid. “Major Depressive Disorder”National Library of Medicine, 01-Jun-2022. [Online]. Available:https://www.ncbi.nlm.nih.gov/books/NBK559078/#:~:text=It%20is%20diagnosed%20when%20an,sleep%20disturbances%2C%20or%20suicidal%20thoughts. [Accessed: 12-Oct-2022]
