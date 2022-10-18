@@ -1,5 +1,5 @@
 # DS4002Project2
-## Does Religion Affect Mental Health?
+# Does Religion Affect Mental Health?
 
 
 ## Contents Overview:
@@ -36,8 +36,8 @@ We wanted to test whether or not religion might affect or be a predictor for a p
 ## REFERENCES:
 
 ### Preparatory Assignments:
-- Milestone 1 <a href="file:///Users/teagannorrgard/Downloads/MI1-2%20(updated%20version).pdff">Milestone 1</a>
-- <a href="file:///Users/teagannorrgard/ds4001/MI2%20-%202.pdf">Milestone 2</a>
+<a href="file:///Users/teagannorrgard/Downloads/MI1-2%20(updated%20version).pdff">Milestone 1</a>
+<a href="file:///Users/teagannorrgard/ds4001/MI2%20-%202.pdf">Milestone 2</a>
 
 ### Acknowledgements
 We would like to thank Professor Alonzi and our TA Harsh for their help and guidance with this project :)
