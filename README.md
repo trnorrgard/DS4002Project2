@@ -33,6 +33,15 @@ We wanted to test whether or not religion might affect or be a predictor for a p
 
 ## FIGURES Folder:
 
+#### PrelimAnalysisFig
+This figure was made by randomly selecting 4 statements to compare scores by religion to get a baseline understanding of our data. There are 4 separate plots in this figure, each representing its own statement, where the x-axis is the different religions and the y-axis is the average score for that statement.
+
+#### AnxietyStatementsFig
+This figure was made by specifically selecting 4 statements that aligned with common anxiety symptoms. The x-axis holds the 4 statements, split up between our 2 selected populations (Buddhist/Hindu, Other), and the y-axis is the average score for that statement.
+
+#### DepressionStatementsFig
+This figure was made by specifically selecting 4 statements that aligned with common depression symptoms. The x-axis holds the 4 statements, split up between our 2 selected populations (Buddhist/Hindu, Other), and the y-axis is the average score for that statement.
+
 ## REFERENCES:
 
 ### Preparatory Assignments:
