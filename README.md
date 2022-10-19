@@ -20,7 +20,7 @@ Download any files in this section to your local computer. These files are writt
 ## DATA Folder:
 
 ### Data Collection Process
-The data we used for this project was sourced from Kaggle, but was originally collected in the form of an open survey available to anyone from years 2017-2019.
+The data we used for this project was sourced from Kaggle, but was originally collected in the form of an open survey available to anyone from years 2017-2019. We transformed this data into two additional tables included in the folder. These are labeled anxietyStatements.csv and depressionStatements.csv. These were created by grouping our selected populations (Buddhist/Hindu and Other) and averaging the scores of 4 statements we selected specifically because they matched general symptoms of anxiety and depression respectively.
 
 ### Access
 Click this <a href="https://www.kaggle.com/code/yagnavalkya/dass-prediction-based-on-personality-types/data?select=data.csv">link</a> to access data.
